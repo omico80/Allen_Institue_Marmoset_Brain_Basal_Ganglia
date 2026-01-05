@@ -1,0 +1,301 @@
+gene_identifier,gene_symbol,description,molecular_type
+NCBIGene:100393956,ABI3BP,ABI family member 3 binding protein,protein_coding
+NCBIGene:100388523,ABL2,"ABL proto-oncogene 2, non-receptor tyrosine kinase",protein_coding
+NCBIGene:100389219,ABLIM1,actin binding LIM protein 1,protein_coding
+NCBIGene:100400228,ACAP2,"ArfGAP with coiled-coil, ankyrin repeat and PH domains 2",protein_coding
+NCBIGene:100392257,ACHE,acetylcholinesterase (Cartwright blood group),protein_coding
+NCBIGene:100406377,ACTN1,actinin alpha 1,protein_coding
+NCBIGene:100395237,ADAM22,ADAM metallopeptidase domain 22,protein_coding
+NCBIGene:100404532,ADAM23,ADAM metallopeptidase domain 23,protein_coding
+NCBIGene:100412109,ADAMTS18,ADAM metallopeptidase with thrombospondin type 1 motif 18,protein_coding
+NCBIGene:100390670,ADCYAP1,adenylate cyclase activating polypeptide 1,protein_coding
+NCBIGene:100405265,ADGRL2,adhesion G protein-coupled receptor L2,protein_coding
+NCBIGene:100396620,ADGRV1,adhesion G protein-coupled receptor V1,protein_coding
+NCBIGene:100401173,ADIRF,adipogenesis regulatory factor,protein_coding
+NCBIGene:100404056,AGAP1,"ArfGAP with GTPase domain, ankyrin repeat and PH domain 1",protein_coding
+NCBIGene:100393907,AGMO,alkylglycerol monooxygenase,protein_coding
+NCBIGene:100413848,AGTPBP1,ATP/GTP binding carboxypeptidase 1,protein_coding
+NCBIGene:100413870,ANGPT1,angiopoietin 1,protein_coding
+NCBIGene:100404686,ANGPT2,angiopoietin 2,protein_coding
+NCBIGene:100397259,ANKFN1,ankyrin repeat and fibronectin type III domain containing 1,protein_coding
+NCBIGene:100387994,ANKIB1,ankyrin repeat and IBR domain containing 1,protein_coding
+NCBIGene:100391876,ANKRD12,ankyrin repeat domain 12,protein_coding
+NCBIGene:100392276,ANKRD17,ankyrin repeat domain 17,protein_coding
+NCBIGene:100409781,AQP4,aquaporin 4,protein_coding
+NCBIGene:100407043,ARHGAP10,Rho GTPase activating protein 10,protein_coding
+NCBIGene:100391304,ARHGAP24,Rho GTPase activating protein 24,protein_coding
+NCBIGene:100409288,ARHGAP32,Rho GTPase activating protein 32,protein_coding
+NCBIGene:100393607,ASH1L,ASH1 like histone lysine methyltransferase,protein_coding
+NCBIGene:100412074,ATG7,autophagy related 7,protein_coding
+NCBIGene:100394666,ATL2,atlastin GTPase 2,protein_coding
+NCBIGene:100387255,ATP10A,ATPase phospholipid transporting 10A (putative),protein_coding
+NCBIGene:100402438,ATP1A2,ATPase Na+/K+ transporting subunit alpha 2,protein_coding
+NCBIGene:100414938,ATXN10,ataxin 10,protein_coding
+NCBIGene:100402816,BACH2,BTB domain and CNC homolog 2,protein_coding
+NCBIGene:100392911,BCAS1,brain enriched myelin associated protein 1,protein_coding
+NCBIGene:100396584,BCL11B,BCL11 transcription factor B,protein_coding
+NCBIGene:100406149,BIRC6,baculoviral IAP repeat containing 6,protein_coding
+NCBIGene:100397724,BMPR1B,bone morphogenetic protein receptor type 1B,protein_coding
+NCBIGene:100414009,BSG,basigin (Ok blood group),protein_coding
+NCBIGene:100390426,BTAF1,B-TFIID TATA-box binding protein associated factor 1,protein_coding
+NCBIGene:100393500,BTBD9,BTB domain containing 9,protein_coding
+NCBIGene:100389218,BTRC,beta-transducin repeat containing E3 ubiquitin protein ligase,protein_coding
+NCBIGene:100405539,C12H10orf90,chromosome 12 C10orf90 homolog,protein_coding
+NCBIGene:108590053,C4H6orf52,chromosome 4 C6orf52 homolog,protein_coding
+NCBIGene:100402836,CA10,carbonic anhydrase 10,protein_coding
+NCBIGene:100390599,CACNA1A,calcium voltage-gated channel subunit alpha1 A,protein_coding
+NCBIGene:100414303,CADPS2,calcium dependent secretion activator 2,protein_coding
+NCBIGene:100406048,CALB1,calbindin 1,protein_coding
+NCBIGene:100396139,CALB2,calbindin 2,protein_coding
+NCBIGene:100391342,CALCRL,calcitonin receptor like receptor,protein_coding
+NCBIGene:100390091,CALN1,calneuron 1,protein_coding
+NCBIGene:100398677,CBLN1,cerebellin 1 precursor,protein_coding
+NCBIGene:100399859,CCDC85A,coiled-coil domain containing 85A,protein_coding
+NCBIGene:100404313,CD3D,CD3d molecule,protein_coding
+NCBIGene:100385390,CDH20,cadherin 20,protein_coding
+NCBIGene:100386970,CDH9,cadherin 9,protein_coding
+NCBIGene:100412157,CDK13,cyclin dependent kinase 13,protein_coding
+NCBIGene:100388428,CDKAL1,CDK5 regulatory subunit associated protein 1 like 1,protein_coding
+NCBIGene:100409225,CHD9,chromodomain helicase DNA binding protein 9,protein_coding
+NCBIGene:100408345,CHL1,cell adhesion molecule L1 like,protein_coding
+NCBIGene:100411083,CHRM2,cholinergic receptor muscarinic 2,protein_coding
+NCBIGene:100400214,CHST15,carbohydrate sulfotransferase 15,protein_coding
+NCBIGene:100392140,CHSY3,chondroitin sulfate synthase 3,protein_coding
+NCBIGene:100410516,CLDN5,claudin 5,protein_coding
+NCBIGene:100403148,CLVS1,clavesin 1,protein_coding
+NCBIGene:100393865,CNR1,cannabinoid receptor 1,protein_coding
+NCBIGene:100391784,CNST,"consortin, connexin sorting protein",protein_coding
+NCBIGene:100405426,CNTN3,contactin 3,protein_coding
+NCBIGene:100415014,COG5,component of oligomeric golgi complex 5,protein_coding
+NCBIGene:100392333,COL11A1,collagen type XI alpha 1 chain,protein_coding
+NCBIGene:100397114,COL12A1,collagen type XII alpha 1 chain,protein_coding
+NCBIGene:100388461,COL4A4,collagen type IV alpha 4 chain,protein_coding
+NCBIGene:100394853,COL5A2,collagen type V alpha 2 chain,protein_coding
+NCBIGene:100407608,COMMD1,copper metabolism domain containing 1,protein_coding
+NCBIGene:100413817,CPNE8,copine 8,protein_coding
+NCBIGene:100398410,CRACDL,CRACD like,protein_coding
+NCBIGene:100385306,CRB1,crumbs cell polarity complex component 1,protein_coding
+NCBIGene:100388738,CRYM,crystallin mu,protein_coding
+NCBIGene:100407007,CSGALNACT1,chondroitin sulfate N-acetylgalactosaminyltransferase 1,protein_coding
+NCBIGene:100395897,CXCL14,C-X-C motif chemokine ligand 14,protein_coding
+NCBIGene:100389223,DAPK1,death associated protein kinase 1,protein_coding
+NCBIGene:100398360,DIS3L2,DIS3 like 3'-5' exoribonuclease 2,protein_coding
+NCBIGene:100409600,DLGAP4,DLG associated protein 4,protein_coding
+NCBIGene:100389439,DNER,delta/notch like EGF repeat containing,protein_coding
+NCBIGene:100392354,DOCK5,dedicator of cytokinesis 5,protein_coding
+NCBIGene:100393468,DOCK8,dedicator of cytokinesis 8,protein_coding
+NCBIGene:100397567,DOK1,docking protein 1,protein_coding
+NCBIGene:100399327,DPYD,dihydropyrimidine dehydrogenase,protein_coding
+NCBIGene:100398535,DRD1,dopamine receptor D1,protein_coding
+NCBIGene:100400797,DRD2,dopamine receptor D2,protein_coding
+NCBIGene:100406953,DYNC1I2,dynein cytoplasmic 1 intermediate chain 2,protein_coding
+NCBIGene:100393955,EBF1,EBF transcription factor 1,protein_coding
+NCBIGene:100406035,EHBP1,EH domain binding protein 1,protein_coding
+NCBIGene:128928044,EID2B,EP300 interacting inhibitor of differentiation 2B,protein_coding
+NCBIGene:100395627,ELAVL2,ELAV like RNA binding protein 2,protein_coding
+NCBIGene:100399592,ELMOD1,ELMO domain containing 1,protein_coding
+NCBIGene:100414555,EML5,EMAP like 5,protein_coding
+NCBIGene:100397344,ENPP2,ectonucleotide pyrophosphatase/phosphodiesterase 2,protein_coding
+NCBIGene:100392278,EPHA5,EPH receptor A5,protein_coding
+NCBIGene:100400745,EPN2,epsin 2,protein_coding
+NCBIGene:100403565,EPS15,epidermal growth factor receptor pathway substrate 15,protein_coding
+NCBIGene:100397359,ESRRG,estrogen related receptor gamma,protein_coding
+NCBIGene:100394870,ETV1,ETS variant transcription factor 1,protein_coding
+NCBIGene:100387459,EYA4,EYA transcriptional coactivator and phosphatase 4,protein_coding
+NCBIGene:100397949,FAM135B,family with sequence similarity 135 member B,protein_coding
+NCBIGene:100411574,FAM13C,family with sequence similarity 13 member C,protein_coding
+NCBIGene:100402926,FARS2,"phenylalanyl-tRNA synthetase 2, mitochondrial",protein_coding
+NCBIGene:100398546,FAT4,FAT atypical cadherin 4,protein_coding
+NCBIGene:100401835,FBXL7,F-box and leucine rich repeat protein 7,protein_coding
+NCBIGene:100388291,FBXW7,F-box and WD repeat domain containing 7,protein_coding
+NCBIGene:100409349,FCER2,Fc epsilon receptor II,protein_coding
+NCBIGene:100393573,FGFR2,fibroblast growth factor receptor 2,protein_coding
+NCBIGene:100390875,FIGN,"fidgetin, microtubule severing factor",protein_coding
+NCBIGene:100413287,FKBP5,FKBP prolyl isomerase 5,protein_coding
+NCBIGene:100407882,FMN2,formin 2,protein_coding
+NCBIGene:100389431,FRY,FRY microtubule binding protein,protein_coding
+NCBIGene:100394464,FRYL,FRY like transcription coactivator,protein_coding
+NCBIGene:100406544,GAB1,GRB2 associated binding protein 1,protein_coding
+NCBIGene:100402064,GABRB2,gamma-aminobutyric acid type A receptor subunit beta2,protein_coding
+NCBIGene:100392568,GAD2,glutamate decarboxylase 2,protein_coding
+NCBIGene:100409651,GALNT18,polypeptide N-acetylgalactosaminyltransferase 18,protein_coding
+NCBIGene:100389441,GATA3,GATA binding protein 3,protein_coding
+NCBIGene:100408213,GDA,guanine deaminase,protein_coding
+NCBIGene:100393644,GFAP,glial fibrillary acidic protein,protein_coding
+NCBIGene:100400779,GLI3,GLI family zinc finger 3,protein_coding
+NCBIGene:100409063,GLIS3,GLIS family zinc finger 3,protein_coding
+NCBIGene:100397590,GLRA3,glycine receptor alpha 3,protein_coding
+NCBIGene:100412160,GNG11,G protein subunit gamma 11,protein_coding
+NCBIGene:100391108,GPR158,G protein-coupled receptor 158,protein_coding
+NCBIGene:100392881,GPRIN3,GPRIN family member 3,protein_coding
+NCBIGene:100394506,GRIK3,glutamate ionotropic receptor kainate type subunit 3,protein_coding
+NCBIGene:100388241,GRIK4,glutamate ionotropic receptor kainate type subunit 4,protein_coding
+NCBIGene:100395984,GRIN3A,glutamate ionotropic receptor NMDA type subunit 3A,protein_coding
+NCBIGene:100410312,GRM1,glutamate metabotropic receptor 1,protein_coding
+NCBIGene:100402276,GSG1L,GSG1 like,protein_coding
+NCBIGene:100387683,GSK3B,glycogen synthase kinase 3 beta,protein_coding
+NCBIGene:100394138,GULP1,GULP PTB domain containing engulfment adaptor 1,protein_coding
+NCBIGene:100402072,HAPLN1,hyaluronan and proteoglycan link protein 1,protein_coding
+NCBIGene:100386968,HCN1,hyperpolarization activated cyclic nucleotide gated potassium channel 1,protein_coding
+NCBIGene:100396535,HDAC8,histone deacetylase 8,protein_coding
+NCBIGene:100414181,HECTD4,HECT domain E3 ubiquitin protein ligase 4,protein_coding
+NCBIGene:100411186,HECW2,"HECT, C2 and WW domain containing E3 ubiquitin protein ligase 2",protein_coding
+NCBIGene:100404703,HIP1,huntingtin interacting protein 1,protein_coding
+NCBIGene:100406246,HIPK2,homeodomain interacting protein kinase 2,protein_coding
+NCBIGene:100409919,HIVEP3,HIVEP zinc finger 3,protein_coding
+NCBIGene:100895274,HTR1A,5-hydroxytryptamine receptor 1A,protein_coding
+NCBIGene:100396866,HYDIN,HYDIN axonemal central pair apparatus protein,protein_coding
+NCBIGene:100399035,IGFBP7,insulin like growth factor binding protein 7,protein_coding
+NCBIGene:100393945,IL1R1,interleukin 1 receptor type 1,protein_coding
+NCBIGene:100403400,INSR,insulin receptor,protein_coding
+NCBIGene:100386122,IQSEC1,IQ motif and Sec7 domain ArfGEF 1,protein_coding
+NCBIGene:100386317,ITPRID1,ITPR interacting domain containing 1,protein_coding
+NCBIGene:100415077,JAKMIP1,janus kinase and microtubule interacting protein 1,protein_coding
+NCBIGene:100410527,JAKMIP2,janus kinase and microtubule interacting protein 2,protein_coding
+NCBIGene:100415603,JCAD,junctional cadherin 5 associated,protein_coding
+NCBIGene:100391592,KCNH7,potassium voltage-gated channel subfamily H member 7,protein_coding
+NCBIGene:100389611,KCNH8,potassium voltage-gated channel subfamily H member 8,protein_coding
+NCBIGene:100386249,KCNIP1,potassium voltage-gated channel interacting protein 1,protein_coding
+NCBIGene:100410336,KCNJ3,potassium inwardly rectifying channel subfamily J member 3,protein_coding
+NCBIGene:100405933,KCNQ3,potassium voltage-gated channel subfamily Q member 3,protein_coding
+NCBIGene:100399528,KCNT2,potassium sodium-activated channel subfamily T member 2,protein_coding
+NCBIGene:100403232,KDM2A,lysine demethylase 2A,protein_coding
+NCBIGene:100391630,KDM4C,lysine demethylase 4C,protein_coding
+NCBIGene:100388364,KIF21A,kinesin family member 21A,protein_coding
+NCBIGene:100396143,KIF6,kinesin family member 6,protein_coding
+NCBIGene:100400578,L3MBTL4,L3MBTL histone methyl-lysine binding protein 4,protein_coding
+NCBIGene:100410437,LAMP5,lysosomal associated membrane protein family member 5,protein_coding
+NCBIGene:100412598,LHFPL6,LHFPL tetraspan subfamily member 6,protein_coding
+NCBIGene:100392368,LHX6,LIM homeobox 6,protein_coding
+NCBIGene:100894451,LMO1,LIM domain only 1,protein_coding
+NCBIGene:100414696,LMO7,LIM domain 7,protein_coding
+NCBIGene:100385731,LOC100385731,T cell receptor alpha chain constant-like,C_region
+NCBIGene:100414340,LPAR1,lysophosphatidic acid receptor 1,protein_coding
+NCBIGene:100403066,LRP2,LDL receptor related protein 2,protein_coding
+NCBIGene:100399098,LRRC8D,leucine rich repeat containing 8 VRAC subunit D,protein_coding
+NCBIGene:100412988,MAP4K5,mitogen-activated protein kinase kinase kinase kinase 5,protein_coding
+NCBIGene:100393005,MAST4,microtubule associated serine/threonine kinase family member 4,protein_coding
+NCBIGene:100396689,MED13L,mediator complex subunit 13L,protein_coding
+NCBIGene:100399631,MEGF10,multiple EGF like domains 10,protein_coding
+NCBIGene:100403610,MEIS1,Meis homeobox 1,protein_coding
+NCBIGene:100409307,MERTK,"MER proto-oncogene, tyrosine kinase",protein_coding
+NCBIGene:100402251,MFSD2A,"MFSD2 lysolipid transporter A, lysophospholipid",protein_coding
+NCBIGene:100414526,MGAT5,"alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase",protein_coding
+NCBIGene:100413173,MOXD1,monooxygenase DBH like 1,protein_coding
+NCBIGene:100405555,MPPED1,metallophosphoesterase domain containing 1,protein_coding
+NCBIGene:100403725,MS4A1,membrane spanning 4-domains A1,protein_coding
+NCBIGene:100406902,MSH3,mutS homolog 3,protein_coding
+NCBIGene:100393249,MYRIP,myosin VIIA and Rab interacting protein,protein_coding
+NCBIGene:100393546,NAMPT,nicotinamide phosphoribosyltransferase,protein_coding
+NCBIGene:100400170,NBEAL1,neurobeachin like 1,protein_coding
+NCBIGene:100407394,NCALD,neurocalcin delta,protein_coding
+NCBIGene:100409563,NCOA2,nuclear receptor coactivator 2,protein_coding
+NCBIGene:100407029,NECAB1,N-terminal EF-hand calcium binding protein 1,protein_coding
+NCBIGene:100399519,NEK10,NIMA related kinase 10,protein_coding
+NCBIGene:100392547,NF1,neurofibromin 1,protein_coding
+NCBIGene:100384964,NHS,NHS actin remodeling regulator,protein_coding
+NCBIGene:100403994,NIPBL,NIPBL cohesin loading factor,protein_coding
+NCBIGene:100385471,NPY,neuropeptide Y,protein_coding
+NCBIGene:100413732,NR4A3,nuclear receptor subfamily 4 group A member 3,protein_coding
+NCBIGene:100401488,NTN1,netrin 1,protein_coding
+NCBIGene:100895459,NWD1,NACHT and WD repeat domain containing 1,protein_coding
+NCBIGene:100413082,NYAP2,neuronal tyrosine-phosphorylated phosphoinositide-3-kinase adaptor 2,protein_coding
+NCBIGene:100404072,ONECUT1,one cut homeobox 1,protein_coding
+NCBIGene:100414298,OSBPL3,oxysterol binding protein like 3,protein_coding
+NCBIGene:100413469,OTX2,orthodenticle homeobox 2,protein_coding
+NCBIGene:100388266,P3H2,prolyl 3-hydroxylase 2,protein_coding
+NCBIGene:100392107,PACS1,phosphofurin acidic cluster sorting protein 1,protein_coding
+NCBIGene:100412199,PALM2AKAP2,PALM2 and AKAP2 fusion,protein_coding
+NCBIGene:100410340,PARD3B,par-3 family cell polarity regulator beta,protein_coding
+NCBIGene:100385657,PARP8,poly(ADP-ribose) polymerase family member 8,protein_coding
+NCBIGene:100386350,PAX8,paired box 8,protein_coding
+NCBIGene:100386530,PCDH11X,protocadherin 11 X-linked,protein_coding
+NCBIGene:100414364,PCNX2,pecanex 2,protein_coding
+NCBIGene:118150427,PCSK1N,proprotein convertase subtilisin/kexin type 1 inhibitor,protein_coding
+NCBIGene:100410189,PCSK2,proprotein convertase subtilisin/kexin type 2,protein_coding
+NCBIGene:100398033,PDGFD,platelet derived growth factor D,protein_coding
+NCBIGene:100412026,PDZRN4,PDZ domain containing ring finger 4,protein_coding
+NCBIGene:100385331,PECAM1,platelet and endothelial cell adhesion molecule 1,protein_coding
+NCBIGene:100407058,PHACTR2,phosphatase and actin regulator 2,protein_coding
+NCBIGene:100388822,PID1,phosphotyrosine interaction domain containing 1,protein_coding
+NCBIGene:100415191,PITX2,paired like homeodomain 2,protein_coding
+NCBIGene:100410075,PLCB4,phospholipase C beta 4,protein_coding
+NCBIGene:100386721,PLCH1,phospholipase C eta 1,protein_coding
+NCBIGene:100411366,PLCL2,phospholipase C like 2,protein_coding
+NCBIGene:100408490,PLCXD3,phosphatidylinositol specific phospholipase C X domain containing 3,protein_coding
+NCBIGene:100391157,PLPPR1,phospholipid phosphatase related 1,protein_coding
+NCBIGene:100390614,PPP1R1B,protein phosphatase 1 regulatory inhibitor subunit 1B,protein_coding
+NCBIGene:100389962,PREX2,"phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 2",protein_coding
+NCBIGene:100408666,PRICKLE1,prickle planar cell polarity protein 1,protein_coding
+NCBIGene:100407692,PRKACB,protein kinase cAMP-activated catalytic subunit beta,protein_coding
+NCBIGene:100404369,PROX1,prospero homeobox 1,protein_coding
+NCBIGene:100412484,PTMA,prothymosin alpha,protein_coding
+NCBIGene:100398974,PTPRR,protein tyrosine phosphatase receptor type R,protein_coding
+NCBIGene:100408359,RAB3C,"RAB3C, member RAS oncogene family",protein_coding
+NCBIGene:100404195,RAD51B,RAD51 paralog B,protein_coding
+NCBIGene:100894572,RASGEF1C,RasGEF domain family member 1C,protein_coding
+NCBIGene:100402073,RASGRF2,Ras protein specific guanine nucleotide releasing factor 2,protein_coding
+NCBIGene:100390356,REV3L,"REV3 like, DNA directed polymerase zeta catalytic subunit",protein_coding
+NCBIGene:100411376,RGS5,regulator of G protein signaling 5,protein_coding
+NCBIGene:100387876,RGS6,regulator of G protein signaling 6,protein_coding
+NCBIGene:100400367,RNF144B,ring finger protein 144B,protein_coding
+NCBIGene:100394937,RNGTT,RNA guanylyltransferase and 5'-phosphatase,protein_coding
+NCBIGene:100415610,ROR1,receptor tyrosine kinase like orphan receptor 1,protein_coding
+NCBIGene:100405410,RORB,RAR related orphan receptor B,protein_coding
+NCBIGene:100399183,RSPO3,R-spondin 3,protein_coding
+NCBIGene:100390336,RXFP1,relaxin family peptide receptor 1,protein_coding
+NCBIGene:100387368,SATB2,SATB homeobox 2,protein_coding
+NCBIGene:100398497,SCN4B,sodium voltage-gated channel beta subunit 4,protein_coding
+NCBIGene:108592385,SCN9A,sodium voltage-gated channel alpha subunit 9,protein_coding
+NCBIGene:100410716,SEMA3A,semaphorin 3A,protein_coding
+NCBIGene:100411439,SEMA3E,semaphorin 3E,protein_coding
+NCBIGene:100393163,SGCG,sarcoglycan gamma,protein_coding
+NCBIGene:100389266,SGK1,serum/glucocorticoid regulated kinase 1,protein_coding
+NCBIGene:100398791,SH3RF2,SH3 domain containing ring finger 2,protein_coding
+NCBIGene:100395360,SIK2,salt inducible kinase 2,protein_coding
+NCBIGene:100412993,SLC17A6,solute carrier family 17 member 6,protein_coding
+NCBIGene:100410190,SLC17A7,solute carrier family 17 member 7,protein_coding
+NCBIGene:100394537,SLC20A2,solute carrier family 20 member 2,protein_coding
+NCBIGene:100396525,SLC24A3,solute carrier family 24 member 3,protein_coding
+NCBIGene:100404544,SLC2A1,solute carrier family 2 member 1,protein_coding
+NCBIGene:100393692,SLC35F4,solute carrier family 35 member F4,protein_coding
+NCBIGene:100387857,SLC44A5,solute carrier family 44 member 5,protein_coding
+NCBIGene:100412630,SLC8A3,solute carrier family 8 member A3,protein_coding
+NCBIGene:100386092,SLCO2B1,solute carrier organic anion transporter family member 2B1,protein_coding
+NCBIGene:100413159,SLIT2,slit guidance ligand 2,protein_coding
+NCBIGene:100405407,SMAD7,SMAD family member 7,protein_coding
+NCBIGene:100401230,SMOC2,SPARC related modular calcium binding 2,protein_coding
+NCBIGene:100393138,SORCS2,sortilin related VPS10 domain containing receptor 2,protein_coding
+NCBIGene:100408455,SORCS3,sortilin related VPS10 domain containing receptor 3,protein_coding
+NCBIGene:100388102,SPHKAP,"SPHK1 interactor, AKAP domain containing",protein_coding
+NCBIGene:100398533,SPOCK1,"SPARC (osteonectin), cwcv and kazal like domains proteoglycan 1",protein_coding
+NCBIGene:100400564,SPON1,spondin 1,protein_coding
+NCBIGene:100399326,ST6GALNAC5,"ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 5",protein_coding
+NCBIGene:100399676,STARD13,StAR related lipid transfer domain containing 13,protein_coding
+NCBIGene:100413277,STK32B,serine/threonine kinase 32B,protein_coding
+NCBIGene:100400096,SUCLA2,succinate-CoA ligase ADP-forming subunit beta,protein_coding
+NCBIGene:100390937,SULF1,sulfatase 1,protein_coding
+NCBIGene:100401702,SV2C,synaptic vesicle glycoprotein 2C,protein_coding
+NCBIGene:100414899,SYT10,synaptotagmin 10,protein_coding
+NCBIGene:100405161,SYT16,synaptotagmin 16,protein_coding
+NCBIGene:100385932,SYTL5,synaptotagmin like 5,protein_coding
+NCBIGene:100388718,TAC1,tachykinin precursor 1,protein_coding
+NCBIGene:100397533,TAC3,tachykinin precursor 3,protein_coding
+NCBIGene:100389848,TAFA1,TAFA chemokine like family member 1,protein_coding
+NCBIGene:100399505,TAFA4,TAFA chemokine like family member 4,protein_coding
+NCBIGene:100406757,TCF7L2,transcription factor 7 like 2,protein_coding
+NCBIGene:100392586,TESPA1,"thymocyte expressed, positive selection associated 1",protein_coding
+NCBIGene:100391230,THSD7B,thrombospondin type 1 domain containing 7B,protein_coding
+NCBIGene:100401655,TMCC3,transmembrane and coiled-coil domain family 3,protein_coding
+NCBIGene:100406837,TMEFF2,transmembrane protein with EGF like and two follistatin like domains 2,protein_coding
+NCBIGene:100397165,TMEM132C,transmembrane protein 132C,protein_coding
+NCBIGene:100404904,TMEM196,transmembrane protein 196,protein_coding
+NCBIGene:100397314,TNFRSF17,TNF receptor superfamily member 17,protein_coding
+NCBIGene:100409134,TNNT1,"troponin T1, slow skeletal type",protein_coding
+NCBIGene:100391636,TTLL11,tubulin tyrosine ligase like 11,protein_coding
+NCBIGene:100402664,VCAN,versican,protein_coding
+NCBIGene:100386986,VIP,vasoactive intestinal peptide,protein_coding
+NCBIGene:100403045,WASF1,WASP family member 1,protein_coding
+NCBIGene:100389150,ZFAND3,zinc finger AN1-type containing 3,protein_coding
+NCBIGene:100385410,ZFPM2,"zinc finger protein, FOG family member 2",protein_coding
+NCBIGene:100400577,ZMAT4,zinc finger matrin-type 4,protein_coding
